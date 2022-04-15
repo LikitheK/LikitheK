@@ -23,4 +23,3 @@
 </p>
 <br><br>
 <img align="right" width=400px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
