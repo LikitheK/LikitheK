@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Likithe K, a <b>pre-final year</b> undergraduate from <a href="https://gct.ac.in/"> <b>Government College of Technology</b>, Coimbatore</a>, <br>
+    Hello! I am Likithe K Zhimo, a <b>pre-final year</b> undergraduate from <a href="https://gct.ac.in/"> <b>Government College of Technology</b>, Coimbatore</a>, <br>
     <b>a passionate self-learner</b>  and a <b>Computer Science Engineer</b>,<br>who is <b>obsessed</b>
     with <b>reading books</b> and documenting the moments.
   </em> 
