@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Likithe K Zhimo</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/" width="30px">, I am Likithe K Zhimo</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
 </p>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Hello! I am Likithe K Zhimo, a <b>pre-final year</b> undergraduate from <a href="https://gct.ac.in/"> <b>Government College of Technology</b>, Coimbatore</a>, <br>
+    a <b>pre-final year</b> undergraduate from <a href="https://gct.ac.in/"> <b>Government College of Technology</b>, Coimbatore</a>, <br>
     <b>a passionate self-learner</b>  and a <b>Computer Science Engineer</b>,<br>who is <b>obsessed</b>
     with <b>reading books</b> and documenting the moments.
   </em> 
