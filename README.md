@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/" width="30px">, I am Likithe K Zhimo</h1>
+I am Likithe K Zhimo</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
 </p>
